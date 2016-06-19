@@ -100,3 +100,17 @@
 [05-Apr-2016 06:35:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
 [15-Apr-2016 07:25:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
 [24-Apr-2016 14:50:58 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[12-May-2016 03:35:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[12-May-2016 08:06:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[13-May-2016 08:06:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[15-May-2016 08:07:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[16-May-2016 08:06:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[22-May-2016 04:09:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[22-May-2016 11:03:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[22-May-2016 15:30:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/404.php on line 12
+[22-May-2016 18:37:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/404.php on line 12
+[25-May-2016 07:42:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[27-May-2016 04:05:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[29-May-2016 15:13:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[12-Jun-2016 04:59:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
+[13-Jun-2016 21:01:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/thedreamus/public_html/wp-content/themes/kindness/index.php on line 13
